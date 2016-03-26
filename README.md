@@ -14,3 +14,5 @@ B&O Chapter 3: C + x86 Assembly : Machine-Level Representations of Programs
 B&O Chapter 5: C + x86 Assembly : Optimizing Program Performance
 
 B&O Chapter 8: C + x86 Assembly : Exceptional Control Flow
+
+![alt tag](https://github.com/abstractmachines/c_x86_asm_linux_pdfs_bryant_ohallaron_book/blob/master/b%26o_pdfs_image.png)
